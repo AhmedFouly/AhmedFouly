@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fouly</h1>
-<h3 align="center">A passionate Fresh Software Engineer</h3>
-
-- 🌱 I’m currently learning **Web Development**
+<h3 align="center">A Software Engineer</h3>
 
 - 💬 Ask me about **anything!**
 
